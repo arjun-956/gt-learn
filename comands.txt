@@ -10,3 +10,10 @@ git add -A                               [to add all untraked file to stagging a
 
 git commit  -m "commit mesaage requird"  [to move staged to local repository]
 
+git push origin master                   [if git already added so want extra fields]
+
+git remote  -v                           [to get remote name]
+
+git remote add name path                 [remote repositry add]
+
+git push name master                     [push to remote repositery]
