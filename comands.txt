@@ -4,7 +4,7 @@ git config --global user.email "email"   [to add email]
 
 git init                                 [for initialize [toinitialize empt repositry]]
 
-git status                               [to check muntracked files]
+git status                               [to check untracked files]
 
 git add -A                               [to add all untraked file to stagging area]
 
