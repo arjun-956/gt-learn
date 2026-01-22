@@ -17,3 +17,7 @@ git remote  -v                           [to get remote name]
 git remote add name path                 [remote repositry add]
 
 git push name master                     [push to remote repositery]
+
+git branch                               [to get all branch]
+
+git pull                                 [remote repositery changes => lws]
